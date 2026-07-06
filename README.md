@@ -1,1 +1,3 @@
 # project1
+The YouTube Video Trend Analyzer is a Python-based data analytics project that explores YouTube video metadata to identify the factors behind high-performing content. Using Exploratory Data Analysis (EDA), the project analyzes video categories, views, likes, comments, and engagement metrics to uncover trends in audience behavior.
+The project demonstrates how data science techniques can be applied to real-world social media data. It includes data cleaning, statistical analysis, and interactive visualizations to help users understand which types of videos attract the most engagement and why.
